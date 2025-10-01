@@ -28,7 +28,7 @@ export default function App() {
 
 
 
-/*ALTERAR TEMA
+
 
 import { ThemeProvider } from "./exercicio-useContext/ThemeContext";
 import ThemeSwitcher from "./exercicio-useContext/ThemeSwitcher";
@@ -40,7 +40,7 @@ export default function AppContext() {
     </ThemeProvider>
   );
 
-}*/
+}
 
 /*PAGINAS
 
